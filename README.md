@@ -5,4 +5,4 @@ I'm Md.Rakib Hosen.I studying in Computer Science and Engineering at Institute o
 My experience of the following programming languagr:
 C, C++, Python.
 Database Experience:
-MySQL,SQL
+SQL, MySQL
